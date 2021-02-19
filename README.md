@@ -8,5 +8,7 @@ dummy text for section 2
 dummy text for section 3
 ## COPY RIGHT
 copy right text
+
+## INSTRUCTIONS
 ## DEPLOYMENT
 
