@@ -6,5 +6,7 @@ dummy text for section one
 dummy text for section 2
 ## SECTION 3
 dummy text for section 3
+## COPY RIGHT
+copy right text
 ## DEPLOYMENT
 
